@@ -35,3 +35,9 @@ Para ejecutar la imagen de Docker, simplemente corre el siguiente comando, el cu
 ```bash
 docker run -p 3000:3000 devalvarocastano/proyecto_final:1.0.0
 ```
+Para ejecutar el proyecto es necesario correr los siguientes comandos:
+
+```bash
+npm i
+npm run dev
+```
